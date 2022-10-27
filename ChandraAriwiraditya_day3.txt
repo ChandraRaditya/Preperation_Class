@@ -1,5 +1,5 @@
 Nama	: Chandra Ariwiraditya
 Stack	: Frontend
 Branch	: Main
-Asal	: Cilaca
-
+Asal	: Cilacap
+provinsi : Jawa Tengah
