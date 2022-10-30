@@ -2,3 +2,4 @@ Nama	: Chandra Ariwiraditya
 Stack	: Frontend
 Branch	: sesiSore
 this is from github
+this is from local
