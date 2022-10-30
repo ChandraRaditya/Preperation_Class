@@ -1,5 +1,3 @@
 Nama	: Chandra Ariwiraditya
 Stack	: Frontend
 Branch	: sesiSore
-
-this is from github
