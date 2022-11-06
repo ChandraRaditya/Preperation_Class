@@ -1,7 +1,7 @@
 Nama	: Chandra Ariwiraditya
-umur    : 27 tahun
-Stack	: Backend/web developer
-branch  : sesiMOring
+project : ssmusix
+Stack	: Frontend/web developer
+branch : sesiPagi
 tools   : vs code, ubuntu
 makanan : nasi goreng
 hobi : pubg
