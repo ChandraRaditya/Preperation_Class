@@ -1,4 +1,5 @@
 Nama	: Chandra Ariwiraditya
-Stack	: Frontend/web developer
-branch : sesiPagi
+umur    : 27 tahun
+Stack	: Backend/web developer
+branch  : sesiMOring
 tools   : vs code, ubuntu
