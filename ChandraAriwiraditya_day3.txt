@@ -3,5 +3,5 @@ project : ssmusix
 Stack	: Frontend/web developer
 branch : sesiPagi
 tools   : vs code, ubuntu
-makanan : nasi goreng
+minuman : es teh
 hobi : pubg
