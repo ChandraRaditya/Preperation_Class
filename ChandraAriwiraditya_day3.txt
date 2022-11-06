@@ -3,3 +3,5 @@ umur    : 27 tahun
 Stack	: Backend/web developer
 branch  : sesiMOring
 tools   : vs code, ubuntu
+makanan : nasi goreng
+hobi : pubg
