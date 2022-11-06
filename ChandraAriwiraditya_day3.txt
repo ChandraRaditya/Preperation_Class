@@ -2,6 +2,9 @@ Nama	: Chandra Ariwiraditya
 project : ssmusix
 Stack	: Frontend/web developer
 branch : sesiPagi
+umur    : 27 tahun
+Stack	: Backend/web developer
+branch  : sesiMOring
 tools   : vs code, ubuntu
 minuman : es teh
 hobi : pubg
