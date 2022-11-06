@@ -1,3 +1,4 @@
 Nama	: Chandra Ariwiraditya
 Stack	: Frontend/web developer
 branch : sesiPagi
+tools   : vs code, ubuntu
