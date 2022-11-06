@@ -1,6 +1,6 @@
 Nama	: Chandra Ariwiraditya
-Stack	: Frontend/web developer
-branch : sesiPagi
+project : ssmusix
+branch  : sesiPagi
 tools   : vs code, ubuntu
 makanan : nasi goreng
 hobi : pubg
